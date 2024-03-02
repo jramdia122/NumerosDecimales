@@ -1,0 +1,391 @@
+1
+00:00:07,810 --> 00:00:12,100
+muy buenas en este vídeo vamos a
+
+2
+00:00:09,910 --> 00:00:14,580
+realizar una explicación acerca de las
+
+3
+00:00:12,100 --> 00:00:18,340
+aproximaciones en los números decimales
+
+4
+00:00:14,580 --> 00:00:20,740
+veamos un ejemplo murcia produce mil 579
+
+5
+00:00:18,340 --> 00:00:22,450
+coma 27 gigawatios por hora de energía
+
+6
+00:00:20,740 --> 00:00:24,400
+renovable
+
+7
+00:00:22,450 --> 00:00:26,880
+queremos aproximarlo a la unidad más
+
+8
+00:00:24,400 --> 00:00:26,880
+cercana
+
+9
+00:00:28,120 --> 00:00:34,960
+tenemos mil 579 unidades completas y 27
+
+10
+00:00:33,100 --> 00:00:36,880
+centésimas de otra unidad que no está
+
+11
+00:00:34,960 --> 00:00:39,640
+completa
+
+12
+00:00:36,880 --> 00:00:41,320
+nos encontramos a 73 de completar la
+
+13
+00:00:39,640 --> 00:00:44,350
+siguiente unidad
+
+14
+00:00:41,320 --> 00:00:47,710
+y de quitar estas 27 centésimas para
+
+15
+00:00:44,350 --> 00:00:49,739
+iniciar la unidad 1579, por lo tanto
+
+16
+00:00:47,710 --> 00:00:52,210
+¿de cuál de ellas está más cerca?
+
+17
+00:00:49,739 --> 00:00:54,660
+representémoslo en la recta numérica y
+
+18
+00:00:52,210 --> 00:00:54,660
+veamos
+
+19
+00:00:55,050 --> 00:01:06,000
+1579’27 se encuentra aquí, a 73 centésimas
+
+20
+00:01:00,329 --> 00:01:07,790
+de 1580 y a 27 tienen 579 por lo tanto
+
+21
+00:01:06,000 --> 00:01:10,940
+está más cerca de esta última
+
+22
+00:01:07,790 --> 00:01:12,650
+veamos otro ejemplo
+
+23
+00:01:10,940 --> 00:01:16,840
+la temperatura media de la zona del
+
+24
+00:01:12,650 --> 00:01:16,840
+ecuador es 24’68
+
+25
+00:01:18,490 --> 00:01:23,870
+podemos decir que tenemos 246 décimas
+
+26
+00:01:21,700 --> 00:01:27,330
+completas
+
+27
+00:01:23,870 --> 00:01:30,060
+fijándonos en la siguiente cifra
+
+28
+00:01:27,330 --> 00:01:33,130
+diremos que estamos a dos centésimas de
+
+29
+00:01:30,060 --> 00:01:35,200
+completar la siguiente décima
+
+30
+00:01:33,130 --> 00:01:37,930
+estas centésimas podemos llamarlas
+
+31
+00:01:35,200 --> 00:01:41,100
+centígrados y las décimas decígrados
+
+32
+00:01:37,930 --> 00:01:41,100
+porque hablamos de grados
+
+33
+00:01:45,580 --> 00:01:49,830
+si quitamos estos 8 centígrados
+
+34
+00:01:47,890 --> 00:01:53,310
+tendríamos
+
+35
+00:01:49,830 --> 00:01:55,350
+246 decígrados
+
+36
+00:01:53,310 --> 00:01:59,270
+representémoslo en la recta numérica y
+
+37
+00:01:55,350 --> 00:01:59,270
+veamos de cuál está más cerca
+
+38
+00:02:00,579 --> 00:02:08,799
+24,68 se encuentra a 2 centígrados de
+
+39
+00:02:06,259 --> 00:02:08,799
+24,7
+
+40
+00:02:09,340 --> 00:02:16,930
+y 8 centígrados de 24,6 o sea está más
+
+41
+00:02:14,379 --> 00:02:18,420
+cerca de 24,7
+
+42
+00:02:16,930 --> 00:02:22,530
+que son
+
+43
+00:02:18,420 --> 00:02:22,530
+247 decígrados
+
+44
+00:02:24,850 --> 00:02:30,049
+veamos otro ejemplo con los euros
+
+45
+00:02:28,430 --> 00:02:32,780
+tenemos tres euros y treinta y dos
+
+46
+00:02:30,049 --> 00:02:35,540
+céntimos si representamos cada euro con
+
+47
+00:02:32,780 --> 00:02:38,540
+un cuadrito amarillo podemos representar
+
+48
+00:02:35,540 --> 00:02:40,579
+los céntimos de esta forma cogemos el
+
+49
+00:02:38,540 --> 00:02:43,640
+cuadrito amarillo lo dividimos en 100
+
+50
+00:02:40,579 --> 00:02:45,230
+partes y cogemos 32 eso representa a los
+
+51
+00:02:43,640 --> 00:02:48,760
+32 céntimos
+
+52
+00:02:45,230 --> 00:02:50,860
+veámoslo ahora de color rojo
+
+53
+00:02:48,760 --> 00:02:53,379
+ahora tenemos que aproximar la unidad
+
+54
+00:02:50,860 --> 00:02:56,500
+más cercana tenemos que decir si estamos
+
+55
+00:02:53,379 --> 00:02:57,810
+más cerca de tener tres euros o de
+
+56
+00:02:56,500 --> 00:03:00,519
+cuatro euros
+
+57
+00:02:57,810 --> 00:03:03,220
+veámoslo en esta representación si
+
+58
+00:03:00,519 --> 00:03:05,920
+quitamos los 32 céntimos nos quedamos
+
+59
+00:03:03,220 --> 00:03:08,890
+con tres euros y si añadimos lo que
+
+60
+00:03:05,920 --> 00:03:11,140
+falta para completar el euro tendríamos
+
+61
+00:03:08,890 --> 00:03:14,830
+cuatro como podéis ver en la imagen
+
+62
+00:03:11,140 --> 00:03:17,140
+estamos más cerca de los trece euros
+
+63
+00:03:14,830 --> 00:03:19,680
+por lo tanto aproximaríamos a la
+
+64
+00:03:17,140 --> 00:03:19,680
+unidad 3
+
+65
+00:03:19,790 --> 00:03:24,060
+vamos a ver un truco para realizar esto
+
+66
+00:03:21,980 --> 00:03:26,220
+de forma numérica
+
+67
+00:03:24,060 --> 00:03:29,790
+nos fijamos en la siguiente cifra que
+
+68
+00:03:26,220 --> 00:03:32,580
+serían las décimas si esta cifra es
+
+69
+00:03:29,790 --> 00:03:37,190
+cinco o mayor de cinco aproximamos a la
+
+70
+00:03:32,580 --> 00:03:39,950
+siguiente unidad si es cuatro o menor
+
+71
+00:03:37,190 --> 00:03:43,709
+aproximamos al inicio de la unidad tres
+
+72
+00:03:39,950 --> 00:03:46,739
+como es el caso entonces ahora podemos
+
+73
+00:03:43,709 --> 00:03:49,340
+comprobar que tendríamos que aproximar a
+
+74
+00:03:46,739 --> 00:03:49,340
+la unidad 3
+
+75
+00:03:50,480 --> 00:03:55,620
+veamos otro ejemplo
+
+76
+00:03:52,540 --> 00:04:00,760
+en este caso distancias
+
+77
+00:03:55,620 --> 00:04:03,219
+123,468 metros, queremos aproximar a la
+
+78
+00:04:00,760 --> 00:04:06,280
+décima más cercana nos fijaríamos en la
+
+79
+00:04:03,219 --> 00:04:09,370
+siguiente cifra si esta cifra es cuatro
+
+80
+00:04:06,280 --> 00:04:14,049
+o menor de cuatro aproximamos a la
+
+81
+00:04:09,370 --> 00:04:17,039
+décima 4, 123, 4 metros y si es
+
+82
+00:04:14,049 --> 00:04:20,440
+cinco o mayor de cinco como es el caso
+
+83
+00:04:17,039 --> 00:04:22,700
+aproximamos a la siguiente décima
+
+84
+00:04:20,440 --> 00:04:24,660
+123,5 metros
+
+85
+00:04:22,700 --> 00:04:28,830
+vamos a ver otro ejemplo
+
+86
+00:04:24,660 --> 00:04:31,770
+en este caso con los segundos 28,468
+
+87
+00:04:28,830 --> 00:04:34,080
+segundos, si queremos aproximar a la
+
+88
+00:04:31,770 --> 00:04:37,980
+centésima más cercana nos fijaremos en
+
+89
+00:04:34,080 --> 00:04:40,470
+la siguiente cifra si es 4 o menor de 4
+
+90
+00:04:37,980 --> 00:04:41,630
+aproximamos a la centésima 6
+
+91
+00:04:40,470 --> 00:04:46,229
+o sea
+
+92
+00:04:41,630 --> 00:04:50,229
+aproximaríamos a 28,46 segundos
+
+93
+00:04:46,229 --> 00:04:54,550
+si es 5 o mayor de 5 aproximaríamos a la
+
+94
+00:04:50,229 --> 00:04:56,480
+siguiente centésima, es decir, 28,47
+
+95
+00:04:54,550 --> 00:04:58,880
+segundos
+
+96
+00:04:56,480 --> 00:05:01,010
+ésta, sería la correcta
+
+97
+00:04:58,880 --> 00:05:03,340
+espero que os hayan servido de ayuda un
+
+98
+00:05:01,010 --> 00:05:03,340
+saludo
